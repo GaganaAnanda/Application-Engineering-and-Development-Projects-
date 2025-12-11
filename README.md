@@ -1,4 +1,4 @@
-# Application-Engineering-and-Development-Projects-
+# Application-Engineering-and-Development-Projects
 This repository contains my academic work for the Application Engineering and Development course. These projects represent enterprise level Java development, object oriented design, multi tier architecture, Swing user interfaces, data modeling and end to end system workflows.
 
 These applications emphasize real world enterprise software development using Java, Swing, object oriented design and multi tier architecture. The work simulates business environments, health systems and library networks through structured models and interactive user interfaces.
