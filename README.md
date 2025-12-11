@@ -3,18 +3,19 @@ This repository contains my academic work for the Application Engineering and De
 
 These applications emphasize real world enterprise software development using Java, Swing, object oriented design and multi tier architecture. The work simulates business environments, health systems and library networks through structured models and interactive user interfaces.
 
-Projects 🧪📚
-Project Title	Description
-🧬 Product Management System	Product creation, catalog management and object oriented structure
-🧾 Supplier and Product Directory	Multi object directories with suppliers, catalogs and relationships
-🏢 Business Hierarchy Model	Enterprise modeling with roles, departments and user directories
-📋 Customer and Person Directory	Customer information system with person directory, records and search
-📦 Order Management Workflow	Order creation, item lists, calculations and catalog interactions
-🛠️ System Administration Panel	Swing interface for system admin work area with multi panel navigation
-🛍️ Supplier and Order Processing Interface	Supplier operations, product updates, ordering and approvals
-🧑‍⚕️ Health Care Modeling System	Object oriented health ecosystem with doctors, patients, encounters and communities
-🧑‍💼 Business Organization System	Enterprise structure with organizations, roles, permissions and admin workflows
-📚 Library Management System	Full application with books, authors, rentals, branches and customer views
+| Project Title                               | Description                                                                         |
+| ------------------------------------------- | ----------------------------------------------------------------------------------- |
+| 🧬 Product Management System                | Product creation, catalog management and object oriented structure                  |
+| 🧾 Supplier and Product Directory           | Multi object directories with suppliers, catalogs and relationships                 |
+| 🏢 Business Hierarchy Model                 | Enterprise modeling with roles, departments and user directories                    |
+| 📋 Customer and Person Directory            | Customer information system with person directory, records and search features      |
+| 📦 Order Management Workflow                | Order creation, item lists, calculations and catalog interactions                   |
+| 🛠️ System Administration Panel             | Swing based system admin panel with multi panel navigation                          |
+| 🛍️ Supplier and Order Processing Interface | Supplier operations, product updates, order processing and approvals                |
+| 🧑‍⚕️ Health Care Modeling System           | Object oriented health ecosystem with doctors, patients, communities and encounters |
+| 🧑‍💼 Business Organization System          | Enterprise structure with organizations, roles, permissions and admin workflows     |
+| 📚 Library Management System                | Full application with books, authors, rentals, branches and customer views          |
+
 
 Technologies Used 🛠️
 
